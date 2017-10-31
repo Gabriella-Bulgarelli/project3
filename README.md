@@ -1,2 +1,2 @@
 # project3
-Data Dashboard created for MEJO 487. Done in the style of Pitchfork. 
+Kanye West Data Dashboard created for MEJO 487. Made to emulate the style of Pitchfork. 
